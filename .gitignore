@@ -1,0 +1,5 @@
+# Run logs and any exported data stay out of the repo (they contain equipment details).
+*.log
+*.csv
+*.xlsx
+exports/
